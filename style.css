@@ -1,15 +1,48 @@
+#taco {
+    background-color: rgba(6, 255, 255, 0.432);
+}
+
 h1 {
     text-align: center;
     color: green;
-    font-size: 500%;
+    font-size: 500%;    
 }
 
 ul {
     font-size: 35px;
+    list-style: none;
     color: black;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
 
 h2 {
     color: green;
     text-align: center;
+}
+
+p {
+    margin: 0 200px 0 200px;
+    font-size: large;
+}
+
+ol {
+    margin: 0 200px 0 200px;
+    font-size: 20px;
+}
+
+div .bottom-box {
+    margin-bottom: 50px; 
+}
+
+#steak {
+    background-color: hwb(0 18% 8% / 0.274);
+}
+
+#index {
+    background-color: rgba(53, 234, 247, 0.452);
 }
